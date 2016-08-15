@@ -1,0 +1,7 @@
+// Coloque su configuración en este archivo para sobrescribir la configuración predeterminada y de usuario.
+{
+    "files.encoding": "windows1252",
+    "php.validate.executablePath": "C:/Program Files (x86)/PHP/v5.6/php.exe",
+    "phpmd.validate.executablePath": "C:/Program Files (x86)/PHP/v5.6/phpmd.bat",
+    "php.validate.run": "onType"
+}
